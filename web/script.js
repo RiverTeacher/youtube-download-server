@@ -1,7 +1,7 @@
 let Btn = document.getElementById('btn');
 let URLinput = document.querySelector('.URL-input');
 let select = document.querySelector('.opt');
-let serverURL = 'https://youtube-download-server.onrender.com/';
+let serverURL = 'https://season-profuse-earthquake.glitch.me/';
 
 Btn.addEventListener('click', () => {
 	if (!URLinput.value) {
